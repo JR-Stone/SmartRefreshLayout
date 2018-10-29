@@ -40,8 +40,6 @@ SmartRefreshLayout的目标是打造一个强大，稳定，成熟的下拉刷�
  - [多点触摸](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_multitouch.md)
  - [自定义Header](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_custom.md)
 
-## Demo
-[下载 APK-Demo](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/app-debug.apk)
 
 ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/png_apk_rqcode.png)
 
