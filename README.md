@@ -29,22 +29,8 @@ SmartRefreshLayout的目标是打造一个强大，稳定，成熟的下拉刷�
  - 支持设多种滑动方式：平移、拉伸、背后固定、顶层固定、全屏
  - 支持所有可滚动视图的越界回弹
 
-## 传送门
-
- - [属性文档](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_property.md)
- - [常见问题](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_faq.md)
- - [智能之处](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_smart.md)
- - [更新日志](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_update.md)
- - [博客文章](https://segmentfault.com/a/1190000010066071)
- - [源码下载](https://github.com/scwang90/SmartRefreshLayout/releases)
- - [多点触摸](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_multitouch.md)
- - [自定义Header](https://github.com/scwang90/SmartRefreshLayout/blob/master/art/md_custom.md)
-
-
-![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/png_apk_rqcode.png)
 
 #### 项目演示
-|个人首页|微博列表|
 |:---:|:---:|
 |![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif)|![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_feedlist.gif)|
 
